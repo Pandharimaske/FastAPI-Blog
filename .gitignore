@@ -1,7 +1,7 @@
 ### Database Files ###
 *.sqlite3
 *.db
-
+SLOWAPI/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
